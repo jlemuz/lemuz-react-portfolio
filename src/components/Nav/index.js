@@ -1,18 +1,20 @@
+import {Link} from 'react-router-dom';
+
 export default function Nav(){
     return <nav className="nav">
-        <a href="/" className="site-title"> Jose Lemuz</a>
+        <Link to="/" className="site-title"> Jose Lemuz</Link>
         <ul>
             <li>
-                <a href="about">About Me</a>
+                <Link to="about">About Me</Link>
             </li>
             <li>
-                <a href="portfolio">Portfolio</a>
+                <Link to="portfolio">Portfolio</Link>
             </li>
             <li>
-                <a href="contact">Contact</a>
+                <Link to="contact">Contact</Link>
             </li>
             <li>
-                <a href="resume">Resume</a>
+                <Link to="resume">Resume</Link>
             </li>
         </ul>
 
