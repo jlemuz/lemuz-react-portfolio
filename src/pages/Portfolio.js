@@ -1,3 +1,9 @@
+import Project from "../components/Projects";
+
 export default function Portfolio(){
-    return <h1>Portfolio</h1>
+    return ( <>
+    
+    <Project />
+    
+    </> )
 }

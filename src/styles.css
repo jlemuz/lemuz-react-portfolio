@@ -45,3 +45,7 @@ body {
 .nav li:hover{
   background-color: #777;
 }
+
+#resume{
+  padding: 3rem;
+}
