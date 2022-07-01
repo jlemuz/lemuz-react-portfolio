@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/lemuz-react-portfolio-deluxe/static/css/main.79f91027.css",
-    "main.js": "/lemuz-react-portfolio-deluxe/static/js/main.6168d8f9.js",
+    "main.css": "/lemuz-react-portfolio-deluxe/static/css/main.365cc8ed.css",
+    "main.js": "/lemuz-react-portfolio-deluxe/static/js/main.42b747b2.js",
     "static/media/proj4.jpg": "/lemuz-react-portfolio-deluxe/static/media/proj4.59b22f41cccb830c82b5.jpg",
     "static/media/proj5.jpg": "/lemuz-react-portfolio-deluxe/static/media/proj5.cac50dd11d6993c616c0.jpg",
     "static/media/proj3.jpg": "/lemuz-react-portfolio-deluxe/static/media/proj3.1a4a7f700e53c1b1a6e9.jpg",
@@ -11,11 +11,11 @@
     "static/media/bootstrap-icons.woff2?": "/lemuz-react-portfolio-deluxe/static/media/bootstrap-icons.f2539a501be3a673de05.woff2",
     "static/media/Jose Lemuz Resume.pdf": "/lemuz-react-portfolio-deluxe/static/media/Jose Lemuz Resume.ff59af1300355a022381.pdf",
     "index.html": "/lemuz-react-portfolio-deluxe/index.html",
-    "main.79f91027.css.map": "/lemuz-react-portfolio-deluxe/static/css/main.79f91027.css.map",
-    "main.6168d8f9.js.map": "/lemuz-react-portfolio-deluxe/static/js/main.6168d8f9.js.map"
+    "main.365cc8ed.css.map": "/lemuz-react-portfolio-deluxe/static/css/main.365cc8ed.css.map",
+    "main.42b747b2.js.map": "/lemuz-react-portfolio-deluxe/static/js/main.42b747b2.js.map"
   },
   "entrypoints": [
-    "static/css/main.79f91027.css",
-    "static/js/main.6168d8f9.js"
+    "static/css/main.365cc8ed.css",
+    "static/js/main.42b747b2.js"
   ]
 }
