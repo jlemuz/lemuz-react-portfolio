@@ -15,6 +15,7 @@ function App() {
     <Nav />
     <div className='container'>
       <Routes>
+        <Route path="/lemuz-react-portfolio-deluxe" element={<About />} />
         <Route path="/" element={<About />} />
         <Route path="/About" element={<About />} />
         <Route path="/Contact" element={<Contact />} />
