@@ -2,11 +2,13 @@ import Pdf from '../images/Jose Lemuz Resume.pdf';
 export default function Resume(){
     return( 
         <>
+        <div>
     <h1>
         <a id = "resume" href={Pdf} without rel="noopener noreferrer" target="_blank">
          Download Resume
         </a>
     </h1>
+    </div>
 
     <h1>Front-End Proficiencies</h1>
     <ul>

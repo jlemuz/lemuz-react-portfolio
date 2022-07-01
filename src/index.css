@@ -64,3 +64,20 @@ button[type=submit] {
   border-radius: 4px;
   cursor: pointer;
 }
+
+footer{
+  background-color: rgb(187, 236, 220);
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  gap: 3rem;
+  padding: 0 1rem;
+  font-size: x-large;
+  position: relative;
+  left: 0;
+  bottom:0;
+  width:100%;
+  bottom:0;
+  padding:5px 0;
+}
